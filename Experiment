@@ -1,0 +1,11 @@
+<html>
+ <head>
+  <style>
+   p {color: lightblue}
+  </style>
+ </head>
+ <body>
+  <h1 style="font-size: big"> Experiment </h1>
+  <p> This is a test of css, experimenting on text size and color text </p> 
+ </body>
+</html>
